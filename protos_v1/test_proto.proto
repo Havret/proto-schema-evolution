@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TestProto {
+    string property_a = 1;
+    optional string property_b = 2;
+}

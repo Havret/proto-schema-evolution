@@ -1,0 +1,6 @@
+confluent-kafka==2.8.0
+googleapis-common-protos==1.66.0
+protobuf==5.29.3
+attrs
+cachetools
+httpx>=0.26
